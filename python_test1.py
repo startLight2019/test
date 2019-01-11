@@ -1,1 +1,1 @@
-1print("welcome to the github.com,startlight!"
+print("welcome to the github.com,startlight!"
